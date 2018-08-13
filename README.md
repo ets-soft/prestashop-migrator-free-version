@@ -3,7 +3,7 @@
 
 This free Prestashop module allows you to migrate/upgrade your Prestashop website from any version to latest Prestashop 1.7 or transfer data between Prestashop websites in a few clicks.
 
-Support form: <a href="https://www.prestashop.com/forums/topic/820013-migrate-or-upgrade-prestashop-16-or-other-versions-to-17-%E2%80%93-free-module/">CLICK HERE</a>
+Support forum: <a href="https://www.prestashop.com/forums/topic/820013-migrate-or-upgrade-prestashop-16-or-other-versions-to-17-%E2%80%93-free-module/">CLICK HERE</a>
 
 ## HOW TO MIGRATE MY WEBSITE TO 1.7?
 
