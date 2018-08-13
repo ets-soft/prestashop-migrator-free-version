@@ -36,6 +36,8 @@ First name, last name, customer ID, gender, birthday, addresses, passwords, etc.
 
 * Migrate Prestashop 1.4, 1.5 or 1.6 to Prestashop 1.7
 
+* <a href="https://addons.prestashop.com/en/data-migration-backup/32298-prestashop-migrator-upgrade-prestashop-to-17.html">Upgrade prestashop 1.6 to 1.7</a>
+
 * Migrate data between Prestashop websites (any versions)
 
 * Downgrade Prestashop to a previous version (eg: Prestashop 1.7 to 1.6)
